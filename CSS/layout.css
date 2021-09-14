@@ -5,3 +5,16 @@
     color: rgb(0,0,0);
     text-align: center;
 }
+
+p {
+    text-indent: 2em;
+    font-size: 15px;
+    font-style: italic;
+}
+.edge {
+    color: rgb(5, 157, 151);
+}
+
+.linux {
+    color: #00a749;
+}
