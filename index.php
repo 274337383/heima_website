@@ -7,10 +7,15 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>主页</title>
     <link rel="stylesheet" href="CSS/layout.css">
+    <style>
+        body {
+            margin: 0;
+        }
+    </style>
 </head>
 <body>
-<div>
-    <h1 class="title">主页（Beta）</h1>
+<div class="logo">
+    <a href="index.php"><img src="source_material/images/dragon_logo.png" alt=""></a>
 </div>
 <hr />
 <div>
